@@ -12,6 +12,7 @@ import com.oasis.datastructure.ListNode;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
 class SolutionLC2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(9);
